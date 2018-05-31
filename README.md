@@ -18,3 +18,5 @@ I'll be using Atom and find these packages useful (I'm sure some of them are def
 * Autosave
 
 *Some Linter might also be helpful*
+
+Git?
