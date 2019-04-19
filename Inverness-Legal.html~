@@ -27,15 +27,15 @@
 <body>
 
     <div class="row">
-    
-        <div class="card small">
-            <img src="Dad.jpg" alt="Duncan Henderson"/>
+
+        <div class="card">
+            <img src="Dad.jpg" width="2000" alt="Duncan Henderson"/>
         </div>
 
-        <div class="card large">
+        <div class="card">
             <img src="Stock.jpg" alt="Stock Photo"/>
         </div>
-    
+
     </div>
 
 </body>
